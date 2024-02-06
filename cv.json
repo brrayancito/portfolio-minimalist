@@ -1,0 +1,148 @@
+{
+    "basics": {
+      "name": "Brrayan Pérez",
+      "label": "Software Developer with a focus on back-end development",
+      "image": "/me.jpg",
+      "email": "brrayanjavi@gmail.com",
+      "phone": "+34 688888888",
+      "url": "https://midu.dev",
+      "summary": "Hi! I'm software developer with a focus on back-end development using Node.js with Express, and a strong foundation in both MongoDB and SQL databases. My proficiency extends to Android application development using Kotlin, having successfully created multiple applications.",
+      "location": {
+        "address": "",
+        "postalCode": "6050",
+        "city": "El Tigre",
+        "countryCode": "VE",
+        "country": "Venezuela"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Brrayan Pérez",
+          "url": "https://www.linkedin.com/in/brrayanperez/"
+        },
+        {
+          "network": "GitHub",
+          "username": "brrayancito",
+          "url": "https://github.com/brrayancito"
+        }
+      ]
+    },
+    "work": [],
+    "education": [{
+      "institution": "Universidad Politécnica Territorial José Antonio Anzoátegui",
+      "area": "Associate's Degree in Computer Science",
+      "studyType": "Associate",
+      "startDate": "2014-08-01",
+      "endDate": "2016-05-01"
+
+    }],
+    "certificates": [
+      {
+      "name": "Node.js, Express, MongoDB & More: The Complete Bootcamp 2023",
+      "date": "2023-06-12",
+      "issuer": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-7b55528c-b3bb-4f69-95f2-99ff10b0f109/"
+    },
+    {
+      "name": "The Complete JavaScript Course 2024: From Zero to Expert!",
+      "date": "2023-03-20",
+      "issuer": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-74d1bb9c-bafc-4e8a-aefa-bfd52b695a71/"
+    }
+  ],
+    "skills": [
+      {
+        "name": "Node.js",
+        "keywords": [
+          "Web Development", "Back-End", "API"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "keywords": [
+          "Web Development", "Front-End", "Back-End", "Fullstack"
+        ]
+      },
+      {
+        "name": "TypeScript",
+        "keywords": [
+          "Web Development", "Front-End", "Back-End"
+        ]
+      },
+      {
+        "name": "kotlin",
+        "keywords": [
+          "Android Development", "Back-End", "Android"
+        ]
+      },
+      {
+        "name": "MySQL",
+        "keywords": [
+          "Data Base", "SQL", "Back-End"
+        ]
+      },
+      {
+        "name": "MongoDB",
+        "keywords": [
+          "Data Base", "SQL", "Back-End"
+        ]
+      },
+      {
+        "name": "Git",
+        "keywords": [
+          "Version Control", "Code", "Cloud"
+        ]
+      },
+      {
+        "name": "GitHub",
+        "keywords": [
+          "Version Control", "Git"
+        ]
+      },
+      {
+        "name": "XML",
+        "keywords": [
+          "Mobile Development", "Android", "UI"
+        ]
+      },
+      {
+        "name": "React",
+        "keywords": [
+          "Web Development", "Front-End", "UI"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Spanish",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Full professional proficiency"
+      },
+      {
+        "language": "French",
+        "fluency": "Professional working proficiency"
+      },
+      {
+        "language": "Portuguese",
+        "fluency": "Limited working proficiency"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Christopher Nolan movies API",
+        "isActive": true,
+        "description": "Simple and efficient Christopher Nolan movies API",
+        "highlights": [
+          "API",
+          "Node.js",
+          "MongoDB",
+          "Back-End"
+        ],
+        "url": "https://christopher-nolan-movies-api-dev-fehk.4.us-1.fl0.io/",
+        "github": "https://github.com/brrayancito/christopher-nolan-movies-api/tree/main"
+      }
+    ]
+  }
