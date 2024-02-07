@@ -142,7 +142,19 @@
           "Back-End"
         ],
         "url": "https://christopher-nolan-movies-api-dev-fehk.4.us-1.fl0.io/",
-        "github": "https://github.com/brrayancito/christopher-nolan-movies-api/tree/main"
+        "github": "https://github.com/brrayancito/christopher-nolan-movies-api"
+      },
+      {
+        "name": "Christopher Nolan filmography",
+        "isActive": true,
+        "description": "Explore Nolan's cinematic universe with this simple page, powered by Astro",
+        "highlights": [
+          "Front-End",
+          "JavaScript",
+          "Astro"
+        ],
+        "url": "https://ch-nolan-filmography.vercel.app/movies",
+        "github": "https://github.com/brrayancito/ch-nolan-filmography"
       }
     ]
   }
