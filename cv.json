@@ -9,10 +9,10 @@
       "summary": "Hi! I'm software developer with a focus on back-end development using Node.js with Express, and a strong foundation in both MongoDB and SQL databases. My proficiency extends to Android application development using Kotlin, having successfully created multiple applications.",
       "location": {
         "address": "",
-        "postalCode": "6050",
-        "city": "El Tigre",
-        "countryCode": "VE",
-        "country": "Venezuela"
+        "postalCode": "80010",
+        "city": "Curitiba",
+        "countryCode": "BR",
+        "country": "Brazil"
       },
       "profiles": [
         {
@@ -155,6 +155,19 @@
         ],
         "url": "https://ch-nolan-filmography.vercel.app/movies",
         "github": "https://github.com/brrayancito/ch-nolan-filmography"
+      },
+      {
+        "name": "Notes App",
+        "isActive": true,
+        "description": "The Notes App Website is a simple web application that allows users to create, read, update, and delete notes.",
+        "highlights": [
+          "Front-End",
+          "EJS",
+          "Google Authentication",
+          "MongoDB"
+        ],
+        "url": "https://node-app-w1dw.onrender.com/",
+        "github": "https://github.com/brrayancito/notes-app"
       }
     ]
   }
