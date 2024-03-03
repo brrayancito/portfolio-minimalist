@@ -132,6 +132,19 @@
     ],
     "projects": [
       {
+        "name": "Node.js API with Express, TypeScript, MongoDB, and JWT Authentication",
+        "isActive": false,
+        "description": "Node.js + TypeScript + MondoDB + Clean Architecture",
+        "highlights": [
+          "Node.js",
+          "MongoDB",
+          "TypeScript",
+          "Clean Architecture",
+          "Repository Pattern"
+        ],
+        "github": "https://github.com/brrayancito/node-express-ts-clean"
+      },
+      {
         "name": "Christopher Nolan movies API",
         "isActive": true,
         "description": "Simple and efficient Christopher Nolan movies API",
