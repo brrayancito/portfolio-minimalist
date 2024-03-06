@@ -30,7 +30,7 @@
     "work": [],
     "education": [{
       "institution": "Universidad Politécnica Territorial José Antonio Anzoátegui",
-      "area": "Associate's Degree in Computer Science",
+      "area": "Associate's degree in Computer Science",
       "studyType": "Associate",
       "startDate": "2014-08-01",
       "endDate": "2016-05-01"
@@ -44,7 +44,7 @@
       "url": "https://www.udemy.com/certificate/UC-7b55528c-b3bb-4f69-95f2-99ff10b0f109/"
     },
     {
-      "name": "The Complete JavaScript Course 2024: From Zero to Expert!",
+      "name": "The Complete JavaScript Course 2023: From Zero to Expert!",
       "date": "2023-03-20",
       "issuer": "Udemy",
       "url": "https://www.udemy.com/certificate/UC-74d1bb9c-bafc-4e8a-aefa-bfd52b695a71/"
@@ -132,9 +132,9 @@
     ],
     "projects": [
       {
-        "name": "Node.js API with Express, TypeScript, MongoDB, and JWT Authentication",
+        "name": "Node.js API with Express, TypeScript, MongoDB...",
         "isActive": false,
-        "description": "Node.js + TypeScript + MondoDB + Clean Architecture",
+        "description": "Simple and secure API built with Node.js, Express, and TypeScript. Implementing the Clean Architecture and Repository Pattern.",
         "highlights": [
           "Node.js",
           "MongoDB",
