@@ -1,4 +1,4 @@
-![project-img](./public/cv-ss.png)
+![project-img](./public/683shots_so.jpg)
 
 # Minimalist CV 
 
