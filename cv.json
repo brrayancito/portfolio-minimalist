@@ -134,7 +134,7 @@
       {
         "name": "Node.js API with Express, TypeScript, MongoDB...",
         "isActive": false,
-        "description": "Simple and secure API built with Node.js, Express, and TypeScript. Implementing the Clean Architecture and Repository Pattern.",
+        "description": "API built with Node.js, Express, and TypeScript. Implementing the Clean Architecture and Repository Pattern.",
         "highlights": [
           "Node.js",
           "MongoDB",
@@ -160,7 +160,7 @@
       {
         "name": "Christopher Nolan filmography",
         "isActive": true,
-        "description": "Explore Nolan's cinematic universe with this simple page, powered by Astro",
+        "description": "Explore Nolan's cinematic universe with this page, powered by Astro",
         "highlights": [
           "Front-End",
           "JavaScript",
